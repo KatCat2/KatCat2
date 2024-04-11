@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on nobody.
 - 📫 How to reach me [ERROR] Please try it later...
-- 😄 Pronouns: ...
+- 😄 Pronouns: man
 - ⚡ Fun fact: ... 👍
 
 <!---
